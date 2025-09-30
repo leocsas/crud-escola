@@ -1,0 +1,28 @@
+{
+  "name": "crud-escola",
+  "version": "1.0.0",
+  "description": "Projeto de gerenciamento escolar baseado em CRUD. Cooperativo com @n1ninh4.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leocsas/crud-escola.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leocsas/crud-escola/issues"
+  },
+  "homepage": "https://github.com/leocsas/crud-escola#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
